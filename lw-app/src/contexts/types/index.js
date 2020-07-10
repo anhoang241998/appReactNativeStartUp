@@ -1,0 +1,14 @@
+'use strict';
+
+export const CHANGE_TOKEN = "CHANGE_TOKEN";
+export const CHANGE_STATE_LOGIN = "CHANGE_STATE_LOGIN";
+
+export const CHANGE_AVATAR = 'CHANGE_AVATAR';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const SET_AVATAR_LOADING = 'SET_AVATAR_LOADING';
+export const CHANGE_PROFILE = 'CHANGE_PROFILE';
+export const REMOVE_PROFILE = 'REMOVE_PROFILE';
+
+export const GET_IRSUBDEVICE = "GET_IRSUBDEVICE";
+
+export const ERROR_MESSAGE = "ERROR_MESSAGE";
